@@ -36,7 +36,7 @@
  
 ---
  
-## 📚 Currently Learning
+## 📚 Aprendeendo atualmente
  
 <div align="center">
  
@@ -51,7 +51,7 @@
  
 </div>
  
-## 🚀 Want to Learn
+## 🚀 Pretendo aprender
  
 <div align="center">
  
