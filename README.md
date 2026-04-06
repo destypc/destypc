@@ -27,9 +27,6 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enzinxz&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-<img width="41%" height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzinxz&layout=compact"
-    alt="Top Languages" />
 </picture>
  
 </div>
