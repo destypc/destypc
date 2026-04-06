@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Profile Views](https://komarev.com/ghpvc/?username=enzinxz&style=flat-square&color=white)](https://github.com/enzinxz)
+[![Profile Views](https://komarev.com/ghpvc/?username=enzinxz&style=flat-square&color=blueviolet)](https://github.com/enzinxz)
  
 </div>
  
