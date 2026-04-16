@@ -51,7 +51,7 @@
  
 <div align="center">
  
-![Skills](https://skillicons.dev/icons?i=php,js,py)
+![Skills](https://skillicons.dev/icons?i=php,js,ts)
  
 </div>
  
