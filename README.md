@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Profile Views](https://komarev.com/ghpvc/?username=enzinxz&style=flat-square&color=blueviolet)](https://github.com/enzinxz)
+[![Profile Views](https://komarev.com/ghpvc/?username=enzopontes01&style=flat-square&color=blueviolet)](https://github.com/enzopontes01)
  
 </div>
  
@@ -8,11 +8,11 @@
  
 <picture>
 <source
-    srcset="https://github-readme-stats.vercel.app/api?username=enzinxz&show_icons=true&count_private=true&theme=dark%22
+    srcset="https://github-readme-stats.vercel.app/api?username=enzopontes01&show_icons=true&count_private=true&theme=dark%22
     media="(prefers-color-scheme: dark)"
   />
 <source
-    srcset="https://github-readme-stats.vercel.app/api?username=enzinxz&show_icons=true&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=enzopontes01&show_icons=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
  
@@ -61,4 +61,4 @@
  
 ## 📊 GitHub Stats
  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enzinxz&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enzopontes01&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
