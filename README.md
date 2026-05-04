@@ -9,7 +9,7 @@
 ╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝
 ```
 
-<sub>opa, eu sou o <strong>Enzo</strong></sub>
+<sub>oi, eu sou o <strong>Enzo Pontes do Nascimento</strong></sub>
 
 <sub>desenvolvedor em formação &nbsp;·&nbsp; brasil paraná &nbsp;·&nbsp; gazin tech</sub>
 
