@@ -4,7 +4,7 @@
 
 </div>
 <br/>
----
+
 <div align="center">
  📚 aprendendo atualmente
 <br/>
@@ -32,7 +32,7 @@
 </tr></table>
 </div>
 <br/>
----
+
 <div align="center">
  ⛓️ chainsaw man
 <br/>
@@ -45,7 +45,7 @@
 </tr></table>
 </div>
 <br/>
----
+
 <div align="center">
  📊 estatísticas
 <br/>
@@ -56,7 +56,7 @@
 
 </div>
 <br/>
----
+
 <div align="center">
 <sub><code>// made with 🖤 by enzinxz</code></sub>
 </div>
