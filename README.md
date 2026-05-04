@@ -1,82 +1,87 @@
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:484f58&height=220&section=header&text=enzo%20pontes%20do%20nascimento&fontSize=28&fontColor=ffffff&font=Press+Start+2P&animation=fadeIn&fontAlignY=38&desc=desenvolvedor%20em%20formação%20%C2%B7%20brasil%20paran%C3%A1%20%C2%B7%20gazin%20tech&descAlignY=58&descSize=14&descAlign=center)](https://github.com/enzopontes01)
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:484f58&height=220&section=header&text=enzo%20pontes%20do%20nascimento&fontSize=28&fontColor=ffffff&font=Press+Start+2P&animation=fadeIn&fontAlignY=38&desc=desenvolvedor%20em%20formação%20%C2%B7%20brasil%20paran%C3%A1%20%C2%B7%20gazin%20tech&descAlignY=58&descSize=14&descAlign=center" width="500"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=enzopontes01&color=21262d&style=for-the-badge&label=visitas"/>
-
+  <img src="https://komarev.com/ghpvc/?username=enzopontes01&color=21262d&style=for-the-badge&label=visitas" alt="visitas"/>
 </div>
 
+<br/>
 ---
 
 <div align="center">
 
-## ⛓️ Chainsaw Man
+### ⛓️ chainsaw man
 
-> *"Todo programador é um artista. O código é sua tela."*
+> *"Todo programador é um artista. O código é sua tela."* — Anônimo
 
 <br/>
 
 <table>
-<tr>
-<td><img src="https://i.pinimg.com/736x/18/4a/a1/184aa198cacd0cdb247ec0c61f0d9859.jpg" width="160"/></td>
-<td><img src="https://i.pinimg.com/736x/e0/fc/6e/e0fc6e830271b7469bf9728ba2cc8008.jpg" width="160"/></td>
-<td><img src="https://i.pinimg.com/736x/80/19/93/801993e093f2c94d12d570027478c8bc.jpg" width="160"/></td>
-</tr>
+  <tr>
+    <td align="center"><img src="https://i.pinimg.com/736x/18/4a/a1/184aa198cacd0cdb247ec0c61f0d9859.jpg" width="220px"/></td>
+    <td align="center"><img src="https://i.pinimg.com/736x/e0/fc/6e/e0fc6e830271b7469bf9728ba2cc8008.jpg" width="220px"/></td>
+    <td align="center"><img src="https://i.pinimg.com/736x/80/19/93/801993e093f2c94d12d570027478c8bc.jpg" width="220px"/></td>
+  </tr>
 </table>
 
 </div>
 
+<br/>
 ---
 
 <div align="center">
 
-## 📚 Aprendendo atualmente
+### 📚 aprendendo atualmente
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
+<table><tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48"/></td>
+</tr></table>
 
-<br/><br/>
+<br/>
 
-## 🚀 Pretendo aprender
+### 🚀 pretendo aprender
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/>
+<table><tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48"/></td>
+</tr></table>
 
-<br/><br/>
+<br/>
 
-## 🛠️ Ferramentas
+### 🛠️ ferramentas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="50"/>
+<table><tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="48" height="48"/></td>
+</tr></table>
 
 </div>
 
+<br/>
 ---
 
 <div align="center">
 
-## 📊 Estatísticas
+### 📊 estatísticas
 
-<img src="./stats.svg" width="500"/>
+<img src="./stats.svg" width="495"/>
 
 <br/><br/>
 
-## 🖤 Contribuições
+### 🖤 gráfico de contribuições
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=enzopontes01&bg_color=0d1117&color=ffffff&line=ffffff&point=c9d1d9&area=true&hide_border=false&border_color=30363d&custom_title=contribuições" width="500"/>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enzopontes01&bg_color=0d1117&color=ffffff&line=ffffff&point=c9d1d9&area=true&hide_border=false&border_color=30363d&custom_title=contribuições)](https://github.com/enzopontes01)
 
 </div>
 
----
+<br/>
+
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:484f58,50:21262d,100:0d1117&height=120&section=footer)](https://github.com/enzopontes01)
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:484f58,50:21262d,100:0d1117&height=120&section=footer" width="500"/>
-
+<sub><code>// made with 🖤 by enzinxz</code></sub>
 </div>
