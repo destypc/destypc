@@ -85,8 +85,17 @@
 
 ## 📊 estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=enzopontes01&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzopontes01&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzopontes01&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzopontes01&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d"/>
+
+</div>
+
+---
+
+<!-- Streak Stats -->
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=enzopontes01&theme=dark&background=0d1117&border=30363d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
 
 </div>
 
@@ -97,7 +106,7 @@
 
 ## 🖤 gráfico de contribuições
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=enzopontes01&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&border_color=333333" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=enzopontes01&bg_color=0d1117&color=ffffff&line=ffffff&point=c9d1d9&area=true&area_color=ffffff&border_color=30363d" width="100%" />
 
 </div>
 
