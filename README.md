@@ -20,6 +20,17 @@
 
 ---
 
+```
+███████╗███╗   ██╗███████╗ ██████╗
+██╔════╝████╗  ██║╚══███╔╝██╔═══██╗
+█████╗  ██╔██╗ ██║  ███╔╝ ██║   ██║
+██╔══╝  ██║╚██╗██║ ███╔╝  ██║   ██║
+███████╗██║ ╚████║███████╗╚██████╔╝
+╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝
+```
+
+---
+
 <!-- Aprendendo atualmente -->
 <div align="center">
 
@@ -65,16 +76,32 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://i.imgur.com/NHXpXYt.jpg" width="200px" alt="Denji" style="filter: grayscale(100%)"/>
+      <img src="./assets/denji1.jpg" width="200px" alt="Denji"/>
     </td>
     <td align="center">
-      <img src="https://i.imgur.com/pHy3G7A.jpg" width="200px" alt="Chainsaw Man" style="filter: grayscale(100%)"/>
+      <img src="./assets/denji2.jpg" width="200px" alt="Chainsaw Man"/>
     </td>
     <td align="center">
-      <img src="https://i.imgur.com/Qs4UGMW.jpg" width="200px" alt="Denji Transform" style="filter: grayscale(100%)"/>
+      <img src="./assets/denji3.jpg" width="200px" alt="Denji Transform"/>
     </td>
   </tr>
 </table>
+
+</div>
+
+---
+
+<!-- Nome ENZO centralizado -->
+<div align="center">
+
+```
+███████╗███╗   ██╗███████╗ ██████╗
+██╔════╝████╗  ██║╚══███╔╝██╔═══██╗
+█████╗  ██╔██╗ ██║  ███╔╝ ██║   ██║
+██╔══╝  ██║╚██╗██║ ███╔╝  ██║   ██║
+███████╗██║ ╚████║███████╗╚██████╔╝
+╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝
+```
 
 </div>
 
@@ -85,17 +112,7 @@
 
 ## 📊 estatísticas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzopontes01&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzopontes01&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d"/>
-
-</div>
-
----
-
-<!-- Streak Stats -->
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=enzopontes01&theme=dark&background=0d1117&border=30363d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+<img src="./stats.svg" width="495"/>
 
 </div>
 
@@ -106,7 +123,7 @@
 
 ## 🖤 gráfico de contribuições
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=enzopontes01&bg_color=0d1117&color=ffffff&line=ffffff&point=c9d1d9&area=true&area_color=ffffff&border_color=30363d" width="100%" />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enzopontes01&bg_color=0d1117&color=ffffff&line=ffffff&point=c9d1d9&area=true&hide_border=false&border_color=30363d&custom_title=contribuições)](https://github.com/enzopontes01)
 
 </div>
 
