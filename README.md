@@ -1,8 +1,30 @@
-<div align="center">
-
 [![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:484f58&height=220&section=header&text=enzo%20pontes%20do%20nascimento&fontSize=28&fontColor=ffffff&font=Press+Start+2P&animation=fadeIn&fontAlignY=38&desc=desenvolvedor%20em%20formação%20·%20brasil%20paraná%20·%20gazin%20tech&descAlignY=58&descSize=14)](https://github.com/enzopontes01)
 
-![](https://komarev.com/ghpvc/?username=enzopontes01&color=e05c2a&style=for-the-badge&label=visitas)
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=enzopontes01&color=21262d&style=for-the-badge&label=visitas)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### ⛓️ chainsaw man
+
+<br/>
+
+> *"I achieved my dream. So what now?"* — Denji
+
+<br/>
+
+<table><tr>
+<td><img src="https://i.pinimg.com/736x/18/4a/a1/184aa198cacd0cdb247ec0c61f0d9859.jpg" width="220px"/></td>
+<td><img src="https://i.pinimg.com/736x/e0/fc/6e/e0fc6e830271b7469bf9728ba2cc8008.jpg" width="220px"/></td>
+<td><img src="https://i.pinimg.com/736x/80/19/93/801993e093f2c94d12d570027478c8bc.jpg" width="220px"/></td>
+</tr></table>
 
 </div>
 
@@ -45,28 +67,6 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="48" height="48"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="48" height="48"/></td>
-</tr></table>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### ⛓️ chainsaw man
-
-<br/>
-
-> *"I achieved my dream. So what now?"* — Denji
-
-<br/>
-
-<table><tr>
-<td><img src="https://i.pinimg.com/736x/18/4a/a1/184aa198cacd0cdb247ec0c61f0d9859.jpg" width="220px"/></td>
-<td><img src="https://i.pinimg.com/736x/e0/fc/6e/e0fc6e830271b7469bf9728ba2cc8008.jpg" width="220px"/></td>
-<td><img src="https://i.pinimg.com/736x/80/19/93/801993e093f2c94d12d570027478c8bc.jpg" width="220px"/></td>
 </tr></table>
 
 </div>
