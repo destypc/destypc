@@ -15,7 +15,7 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=enzopontes01&color=ffffff&style=flat&label=visitas)
+![](https://komarev.com/ghpvc/?username=enzopontes01&color=white&style=for-the-badge&label=visitas)
 
 </div>
 
@@ -29,7 +29,9 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48"/>
 
 <br/><br/>
 
@@ -37,7 +39,9 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=php,mysql,react&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48"/>
 
 <br/><br/>
 
@@ -45,7 +49,10 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=vscode,bootstrap,gimp,ai&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="48" height="48"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="48" height="48"/>
 
 </div>
 
