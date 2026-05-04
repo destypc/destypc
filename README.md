@@ -46,7 +46,7 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="48" height="48"/></td>
-<td align="center"><img src="https://img.shields.io/badge/IA-🤖-111111?style=for-the-badge" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="48" height="48"/></td>
 </tr></table>
 
 </div>
@@ -100,5 +100,5 @@
 ---
 
 <div align="center">
-<sub><code>// made with 🖤 by enzopontes01</code></sub>
+<sub><code>// made with 🖤 by enzinxz</code></sub>
 </div>
