@@ -66,7 +66,7 @@
 <br/>
 
 <table><tr>
-<td><img src="![Denji B&W](https://art.ngfiles.com/images/380000/380123_voidmander_chainsaw-man-denji-black-white.png)" width="220px"/></td>
+<td><img src="![Denji B&W 1](https://i.pinimg.com/236x/18/4a/a1/184aa198cacd0cdb247ec0c61f0d9859.jpg)" width="220px"/></td>
 <td><img src="./assets/denji2.jpg" width="220px"/></td>
 <td><img src="./assets/denji3.jpg" width="220px"/></td>
 </tr></table>
