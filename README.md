@@ -1,8 +1,9 @@
 <div align="center">
-<img src="./banner.svg" width="100%"/>
-<br/>
+
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:484f58&height=220&section=header&text=enzo%20pontes%20do%20nascimento&fontSize=28&fontColor=ffffff&font=Press+Start+2P&animation=fadeIn&fontAlignY=38&desc=desenvolvedor%20em%20formação%20·%20brasil%20paraná%20·%20gazin%20tech&descAlignY=58&descSize=14)](https://github.com/enzopontes01)
 
 ![](https://komarev.com/ghpvc/?username=enzopontes01&color=e05c2a&style=for-the-badge&label=visitas)
+
 </div>
 
 <br/>
@@ -94,7 +95,7 @@
 
 <br/>
 
----
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:484f58,50:21262d,100:0d1117&height=120&section=footer)](https://github.com/enzopontes01)
 
 <div align="center">
 <sub><code>// made with 🖤 by enzinxz</code></sub>
