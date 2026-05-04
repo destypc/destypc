@@ -15,7 +15,7 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=enzopontes01&color=0d1117&style=for-the-badge&label=visitas)
+![](https://komarev.com/ghpvc/?username=enzopontes01&color=e05c2a&style=for-the-badge&label=visitas)
 
 </div>
 
@@ -29,23 +29,36 @@
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48"/>
+<table><tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48"/></td>
+</tr></table>
 
-<br/><br/>
+<br/>
 
 ### 🚀 pretendo aprender
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48"/>
+<table><tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48"/></td>
+</tr></table>
 
-<br/><br/>
+<br/>
 
 ### 🛠️ ferramentas
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="48" height="48"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="48" height="48"/>
+<table><tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="48" height="48"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="48" height="48"/></td>
+</tr></table>
 
 </div>
 
@@ -63,13 +76,11 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td><img src="./assets/denji1.jpg" width="220px"/></td>
-    <td><img src="./assets/denji2.jpg" width="220px"/></td>
-    <td><img src="./assets/denji3.jpg" width="220px"/></td>
-  </tr>
-</table>
+<table><tr>
+<td><img src="./assets/denji1.jpg" width="220px"/></td>
+<td><img src="./assets/denji2.jpg" width="220px"/></td>
+<td><img src="./assets/denji3.jpg" width="220px"/></td>
+</tr></table>
 
 </div>
 
