@@ -16,7 +16,7 @@
 
 <br/>
 
-> *"I achieved my dream. So what now?"* — Denji
+> *"Todo programador é um artista. O código é sua tela."* — Anônimo
 
 <br/>
 
