@@ -1,4 +1,3 @@
-<!-- Banner -->
 <div align="center">
 
 ```
@@ -10,101 +9,96 @@
 ╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝
 ```
 
-### `opa, eu sou o Enzo`
+<sub>Opa, eu sou o <strong>Enzo</strong></sub>
 
-**Desenvolvedor em formação · Brasil Paraná · Gazin Tech**
+<sub>desenvolvedor em formação &nbsp;·&nbsp; brasil paraná &nbsp;·&nbsp; gazin tech</sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=enzopontes01&color=ffffff&style=flat&label=visitas)
+<br/>
+
+![](https://komarev.com/ghpvc/?username=enzopontes01&color=ffffff&style=flat&label=visitas)
 
 </div>
 
+<br/>
 
-<!-- Aprendendo atualmente -->
+---
+
 <div align="center">
 
-## 📚 aprendendo atualmente
+### 📚 aprendendo atualmente
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-</div>
+<br/><br/>
 
----
+### 🚀 pretendo aprender
 
-<!-- Pretendo aprender -->
-<div align="center">
-
-## 🚀 pretendo aprender
+<br/>
 
 <img src="https://skillicons.dev/icons?i=php,mysql,react&theme=dark" />
 
-</div>
+<br/><br/>
 
----
+### 🛠️ ferramentas
 
-<!-- Ferramentas -->
-<div align="center">
+<br/>
 
-## 🛠️ ferramentas
-
-<img src="https://skillicons.dev/icons?i=vscode,bootstrap&theme=dark" />
-<img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
-<img src="https://img.shields.io/badge/IA-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=vscode,bootstrap,gimp,ai&theme=dark" />
 
 </div>
 
+<br/>
+
 ---
 
-<!-- Anime Chainsaw Man - Denji -->
 <div align="center">
 
-## ⛓️ chainsaw man
+### ⛓️ chainsaw man
+
+<br/>
 
 > *"I achieved my dream. So what now?"* — Denji
 
+<br/>
+
 <table>
   <tr>
-    <td align="center">
-      <img src="./assets/denji1.jpg" width="200px" alt="Denji"/>
-    </td>
-    <td align="center">
-      <img src="./assets/denji2.jpg" width="200px" alt="Chainsaw Man"/>
-    </td>
-    <td align="center">
-      <img src="./assets/denji3.jpg" width="200px" alt="Denji Transform"/>
-    </td>
+    <td><img src="./assets/denji1.jpg" width="220px"/></td>
+    <td><img src="./assets/denji2.jpg" width="220px"/></td>
+    <td><img src="./assets/denji3.jpg" width="220px"/></td>
   </tr>
 </table>
 
 </div>
 
+<br/>
+
 ---
 
-
-
-<!-- GitHub Stats -->
 <div align="center">
 
-## 📊 estatísticas
+### 📊 estatísticas
+
+<br/>
 
 <img src="./stats.svg" width="495"/>
 
-</div>
+<br/><br/>
 
----
+### 🖤 gráfico de contribuições
 
-<!-- Gráfico de Contribuições -->
-<div align="center">
+<br/>
 
-## 🖤 gráfico de contribuições
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enzopontes01&bg_color=0d1117&color=ffffff&line=ffffff&point=c9d1d9&area=true&hide_border=false&border_color=30363d&custom_title=contribuições)](https://github.com/enzopontes01)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enzopontes01&bg_color=0d1117&color=ffffff&line=ffffff&point=c9d1d9&area=true&hide_border=false&border_color=30363d&custom_title=contribuições)](https://github.com/enzopontes01)
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
-
-*`// made with 🖤 by enzopontes01`*
-
+<sub><code>// made with 🖤 by enzopontes01</code></sub>
 </div>
