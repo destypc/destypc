@@ -15,7 +15,7 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=enzopontes01&color=black&style=for-the-badge&label=visitas)
+![](https://komarev.com/ghpvc/?username=enzopontes01&color=0d1117&style=for-the-badge&label=visitas)
 
 </div>
 
