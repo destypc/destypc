@@ -1,15 +1,6 @@
 <div align="center">
 
-```
-███████╗███╗   ██╗███████╗ ██████╗
-██╔════╝████╗  ██║╚══███╔╝██╔═══██╗
-█████╗  ██╔██╗ ██║  ███╔╝ ██║   ██║
-██╔══╝  ██║╚██╗██║ ███╔╝  ██║   ██║
-███████╗██║ ╚████║███████╗╚██████╔╝
-╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝
-```
-
-<sub>Desenvolvedor em formação &nbsp;·&nbsp; Brasil - Paraná &nbsp;·&nbsp; Gazin Tech</sub>
+<img src="./banner.svg" width="100%"/>
 
 <br/>
 
@@ -28,9 +19,9 @@
 <br/>
 
 <table><tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48"/></td>
 </tr></table>
 
 <br/>
@@ -40,9 +31,9 @@
 <br/>
 
 <table><tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48"/></td>
 </tr></table>
 
 <br/>
@@ -52,10 +43,10 @@
 <br/>
 
 <table><tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="48" height="48"/></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="48" height="48"/></td>
+<td align="center"><img src="https://img.shields.io/badge/IA-🤖-111111?style=for-the-badge" height="48"/></td>
 </tr></table>
 
 </div>
@@ -70,6 +61,7 @@
 
 <br/>
 
+> *"I achieved my dream. So what now?"* — Denji
 
 <br/>
 
@@ -108,5 +100,5 @@
 ---
 
 <div align="center">
-<sub><code>// feito por 🖤 by destyxz</code></sub>
+<sub><code>// made with 🖤 by enzopontes01</code></sub>
 </div>
