@@ -82,6 +82,3 @@
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0:484f58,50:21262d,100:0d1117&height=120&section=footer)](https://github.com/enzopontes01)
 
-<div align="center">
-<sub><code>// made with 🖤 by enzinxz</code></sub>
-</div>
