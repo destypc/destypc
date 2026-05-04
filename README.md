@@ -10,7 +10,7 @@
 ╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝
 ```
 
-### `oi, eu sou o Enzo Pontes do Nascimento`
+### `opa, eu sou o Enzo`
 
 **Desenvolvedor em formação · Brasil Paraná · Gazin Tech**
 
