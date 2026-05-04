@@ -9,9 +9,7 @@
 ╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝
 ```
 
-<sub>oi, eu sou o <strong>Enzo Pontes do Nascimento</strong></sub>
-
-<sub>desenvolvedor em formação &nbsp;·&nbsp; brasil paraná &nbsp;·&nbsp; gazin tech</sub>
+<sub>Desenvolvedor em formação &nbsp;·&nbsp; Brasil - Paraná &nbsp;·&nbsp; Gazin Tech</sub>
 
 <br/>
 
@@ -72,7 +70,6 @@
 
 <br/>
 
-> *"I achieved my dream. So what now?"* — Denji
 
 <br/>
 
@@ -111,5 +108,5 @@
 ---
 
 <div align="center">
-<sub><code>// made with 🖤 by enzopontes01</code></sub>
+<sub><code>// feito por 🖤 by destyxz</code></sub>
 </div>
