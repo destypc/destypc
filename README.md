@@ -54,17 +54,15 @@
 
 </div>
 
----
 
 <div align="center">
 
-## 📊 Estatísticas
+## 🔥 Streak
 
-<img src="./stats.svg" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=enzopontes01&theme=dark&background=0d1117&ring=a8c9dd&fire=a8c9dd&currStreakLabel=a8c9dd&hide_border=true" width="95%"/>
 
 </div>
 
----
 
 <div align="center">
 
