@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:484f58&height=250&section=header&text=enzo%20pontes%20do%20nascimento&fontSize=32&fontColor=ffffff&font=Press+Start+2P&animation=fadeIn&fontAlignY=38&desc=desenvolvedor%20em%20formação%20%C2%B7%20brasil%20paran%C3%A1%20%C2%B7%20gazin%20tech&descAlignY=60&descSize=16&descAlign=center" width="1000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:484f58&height=250&section=header&text=Enzo%20Pontes%20do%20nNscimento&fontSize=32&fontColor=ffffff&font=Press+Start+2P&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20em%20formação%20%C2%B7%20brasil%20paran%C3%A1%20%C2%B7%20Gazin%20-%20Tech&descAlignY=60&descSize=16&descAlign=center" width="1000"/>
 
 <br/>
 
