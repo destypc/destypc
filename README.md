@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:484f58&height=250&section=header&text=Enzo%20Pontes%20do%20Nascimento&fontSize=32&fontColor=ffffff&font=Press+Start+2P&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20em%20formação%20•%20Brasil%20Paraná%20•%20Gazin%20Tech&descAlignY=60&descSize=16"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:484f58&height=250&section=header&text=Enzo%20Pontes%20do%20Nascimento&fontSize=32&fontColor=ffffff&font=Press+Start+2P&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20em%20formação%20•%20Brasil%20Paraná%20•%20Gazin%20Tech&descAlignY=60&descSize=16" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=enzopontes01&color=21262d&style=for-the-badge&label=VISITAS"/>
 
@@ -15,8 +13,6 @@
 ## ⛓️ Chainsaw Man
 
 > *"Todo programador é um artista. O código é sua tela."*
-
-<br/>
 
 <table>
 <tr>
@@ -40,16 +36,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1a2a35?style=for-the-badge\&logo=css3\&logoColor=a8c9dd)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a2a35?style=for-the-badge\&logo=javascript\&logoColor=a8c9dd)
 
-<br/>
-
 ### — Ferramentas —
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-6b8fa3?style=for-the-badge\&logo=bootstrap\&logoColor=d9ecf6)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-6b8fa3?style=for-the-badge\&logo=tailwindcss\&logoColor=d9ecf6)
 ![VS Code](https://img.shields.io/badge/VS_Code-6b8fa3?style=for-the-badge\&logo=visualstudiocode\&logoColor=d9ecf6)
 ![GIMP](https://img.shields.io/badge/GIMP-6b8fa3?style=for-the-badge\&logo=gimp\&logoColor=d9ecf6)
-
-<br/>
 
 ### — Pretendo Aprender —
 
@@ -68,13 +60,7 @@
 
 ## 📊 Estatísticas
 
-<img src="./stats.svg" width="1000"/>
-
-<br/><br/>
-
-## 🖤 Contribuições
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=enzopontes01&bg_color=0d1117&color=ffffff&line=a8c9dd&point=c9d1d9&area=true&hide_border=false&border_color=30363d&custom_title=Contribuições" width="1000"/>
+<img src="./stats.svg" width="95%"/>
 
 </div>
 
@@ -82,6 +68,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:484f58,50:21262d,100:0d1117&height=140&section=footer"/>
+## 🖤 Contribuições
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=enzopontes01&bg_color=0d1117&color=ffffff&line=a8c9dd&point=c9d1d9&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:484f58,50:21262d,100:0d1117&height=140&section=footer" width="100%"/>
 
 </div>
