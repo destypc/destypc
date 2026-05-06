@@ -1,3 +1,4 @@
+cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:2d3f50&height=250&section=header&text=Enzo%20Pontes%20do%20Nascimento&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=42&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%E2%80%A2%20Brasil%20Paran%C3%A1%20%E2%80%A2%20Gazin%20Tech&descAlign=50&descAlignY=60&descSize=16&descColor=a8c9dd" width="100%"/>
 
@@ -8,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=3000&pause=1000&color=A8C9DD&center=true&vCenter=true&width=500&lines=iniciante+no+mundo+da+programação." />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=22&duration=3000&pause=1000&color=A8C9DD&center=true&vCenter=true&width=500&lines=iniciante+no+mundo+da+programacao." /></a>
 
 </div>
 
@@ -66,7 +67,7 @@
 
 ## 🔥 Streak
 
-<img src="https://streak-stats.demolab.com?user=enzopontes01&theme=transparent&background=0d1117&border=21262d&ring=a8c9dd&fire=a8c9dd&currStreakLabel=a8c9dd&sideLabels=a8c9dd&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e" width="95%"/>
+<img src="https://streak-stats.demolab.com/?user=enzopontes01&theme=dark&background=0d1117&border=21262d&ring=a8c9dd&fire=a8c9dd&currStreakLabel=a8c9dd&sideLabels=a8c9dd&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e" width="95%"/>
 
 </div>
 
@@ -76,7 +77,7 @@
 
 ## 🖤 Contribuições
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=enzopontes01&bg_color=0d1117&color=a8c9dd&line=a8c9dd&point=ffffff&area=true&area_color=2d3f50&hide_border=false&border_color=21262d&custom_title=Contribuições" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=enzopontes01&bg_color=0d1117&color=a8c9dd&line=a8c9dd&point=ffffff&area=true&area_color=2d3f50&hide_border=false&border_color=21262d&custom_title=Contribuicoes" width="95%"/>
 
 </div>
 
@@ -87,3 +88,4 @@
 
 <sub><code>// made with 🖤 by enzinxz</code></sub>
 </div>
+ENDOFFILE
