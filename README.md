@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=22&duration=3000&pause=1000&color=6B8FA3&center=true&vCenter=true&width=500&lines=Iniciante+no+mundo+da+programacao.;Sempre+aprendendo+algo+novo.;Futuro+Dev+Fullstack."/>
+<img src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=500&lines=Iniciante+no+mundo+da+programacao.;Sempre+aprendendo+algo+novo.;Futuro+Dev+Fullstack."/>
 
 </div>
 
