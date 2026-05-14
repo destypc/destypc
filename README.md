@@ -68,7 +68,7 @@
 
 ## 🔥 Streak
 
-<img src="https://streak-stats.demolab.com?user=destypc01&theme=dark&background=0d1117&border=21262d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=a8c9dd&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=destypc&theme=dark&background=0d1117&border=21262d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=a8c9dd&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e" width="70%"/>
 
 </div>
 
