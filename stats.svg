@@ -1,0 +1,28 @@
+<svg width="495" height="195" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 600 18px 'Courier New', monospace; fill: #ffffff; }
+    .stat-label { font: 400 13px 'Courier New', monospace; fill: #8b949e; }
+    .stat-value { font: 600 13px 'Courier New', monospace; fill: #ffffff; }
+    .icon { font: 16px sans-serif; }
+  </style>
+
+  <!-- Background -->
+  <rect width="495" height="195" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="25" y="35" class="title">enzopontes01 · stats</text>
+  <line x1="25" y1="45" x2="470" y2="45" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Stats coluna esquerda -->
+  <text x="25" y="75" class="stat-label">📦 repositórios públicos</text>
+  <text x="320" y="75" class="stat-value">9</text>
+
+  <text x="25" y="105" class="stat-label">👥 seguidores</text>
+  <text x="320" y="105" class="stat-value">9</text>
+
+  <text x="25" y="135" class="stat-label">🔥 longest streak</text>
+  <text x="320" y="135" class="stat-value">4 days</text>
+
+  <text x="25" y="165" class="stat-label">📝 commits totais</text>
+  <text x="320" y="165" class="stat-value">57</text>
+</svg>
