@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,100:2d3f50&height=300&section=header&text=Enzo%20Pontes%20do%20Nascimento&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=42&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%E2%80%A2%20Paran%C3%A1%2C%20Brasil&descAlign=50&descAlignY=62&descSize=17&descColor=a8c9dd" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,100:2d3f50&height=300&section=header&text=Enzo%20Pontes%20do%20Nascimento&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=42&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%E2%80%A2%20Paran%C3%A1%2C%20Brasil&descAlign=50&descAlignY=62&descSize=17&descColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=A8C9DD&center=true&vCenter=true&width=640&height=55&lines=Desenvolvedor+Front-end+%F0%9F%8E%A8;Aprendendo+%E2%80%A2+Construindo+%E2%80%A2+Evoluindo+%F0%9F%9A%80;Jovem+Aprendiz+na+Gazin+Tech+%E2%9A%A1;Rumo+ao+Full+Stack+%F0%9F%8C%90" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=ffffff&center=true&vCenter=true&width=640&height=55&lines=Desenvolvedor+Front-end+%F0%9F%8E%A8;Aprendendo+%E2%80%A2+Construindo+%E2%80%A2+Evoluindo+%F0%9F%9A%80;Jovem+Aprendiz+na+Gazin+Tech+%E2%9A%A1;Rumo+ao+Full+Stack+%F0%9F%8C%90" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -16,7 +16,7 @@
   &nbsp;
 
   <a href="https://destypc.github.io/Projeto-Portfolio/">
-    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-2d3f50?style=for-the-badge&logo=googlechrome&logoColor=a8c9dd"/>
+    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-2d3f50?style=for-the-badge&logo=googlechrome&logoColor=ffffff"/>
   </a>
 
   &nbsp;
@@ -190,7 +190,7 @@ Portfólio
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=destypc&theme=dark&background=0d1117&border=21262d&ring=a8c9dd&fire=a8c9dd&currStreakLabel=a8c9dd&sideLabels=a8c9dd&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e" width="68%"/>
+<img src="https://streak-stats.demolab.com?user=destypc&theme=dark&background=0d1117&border=21262d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e" width="68%"/>
 
 </div>
 
@@ -198,7 +198,7 @@ Portfólio
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=destypc&bg_color=0d1117&color=a8c9dd&line=a8c9dd&point=ffffff&area=true&area_color=2d3f50&hide_border=false&border_color=21262d&title_color=a8c9dd" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=destypc&bg_color=0d1117&color=ffffff&line=ffffff&point=838687&area=true&area_color=2d3f50&hide_border=false&border_color=21262d&title_color=ffffff" width="96%"/>
 
 </div>
 
@@ -276,7 +276,7 @@ E-commerce esportivo moderno com <b>design premium, alta responsividade</b> e ex
 <br/><br/>
 
 <a href="https://github.com/destypc?tab=repositories">
-<img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-21262d?style=for-the-badge&logo=github&logoColor=a8c9dd"/>
+<img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-21262d?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
 </td>
@@ -308,7 +308,7 @@ E-commerce esportivo moderno com <b>design premium, alta responsividade</b> e ex
 &nbsp;&nbsp;
 
 <a href="https://destypc.github.io/Projeto-Portfolio/">
-<img src="https://img.shields.io/badge/Portf%C3%B3lio-2d3f50?style=for-the-badge&logo=googlechrome&logoColor=a8c9dd"/>
+<img src="https://img.shields.io/badge/Portf%C3%B3lio-2d3f50?style=for-the-badge&logo=googlechrome&logoColor=ffffff"/>
 </a>
 
 <br/><br/>
@@ -322,7 +322,7 @@ Sempre aberto a novos projetos, parcerias e oportunidades. Bora trocar uma ideia
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3f50,50:21262d,100:0d1117&height=150&section=footer&text=Obrigado%20pela%20visita!%20🖤&fontSize=20&fontColor=a8c9dd&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3f50,50:21262d,100:0d1117&height=150&section=footer&text=Obrigado%20pela%20visita!%20🖤&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
