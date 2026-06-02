@@ -81,11 +81,15 @@
 
 <br/><br/>
 
-**📚 Pretendo aprender**
+**📖 Aprendendo agora**
 
-<img src="https://skillicons.dev/icons?i=react,ts,laravel&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=php,docker,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" />
+
+<br/><br/>
+
+**🚀 Próximos passos**
+
+<img src="https://skillicons.dev/icons?i=react,ts,laravel,docker&theme=dark" />
 
 <br/>
 
