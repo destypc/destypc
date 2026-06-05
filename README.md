@@ -100,7 +100,7 @@
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=destypc&theme=dark&background=0d1117&border=21262d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e" width="68%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=destypc&theme=dark&background=0d1117&border=21262d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e" width="68%"/>
 </div>
 
 <br/>
