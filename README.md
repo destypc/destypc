@@ -49,18 +49,6 @@
 
 ---
 
-## 🖼️ Chainsaw Man
-
-<div align="center">
-<table><tr>
-<td align="center"><img src="https://i.pinimg.com/736x/18/4a/a1/184aa198cacd0cdb247ec0c61f0d9859.jpg" width="220" style="border-radius:8px"/></td>
-<td align="center"><img src="https://i.pinimg.com/736x/e0/fc/6e/e0fc6e830271b7469bf9728ba2cc8008.jpg" width="220" style="border-radius:8px"/></td>
-<td align="center"><img src="https://i.pinimg.com/736x/80/19/93/801993e093f2c94d12d570027478c8bc.jpg" width="220" style="border-radius:8px"/></td>
-</tr></table>
-</div>
-
----
-
 ## 🔥 Tecnologias & Skills
 
 <div align="center">
