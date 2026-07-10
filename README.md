@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=ffffff&center=true&vCenter=true&width=640&height=55&lines=Desenvolvedor+Front-end+%F0%9F%8E%A8;Aprendendo+%E2%80%A2+Construindo+%E2%80%A2+Evoluindo+%F0%9F%9A%80;Jovem+Aprendiz+na+Gazin+Tech+%E2%9A%A1;Rumo+ao+Full+Stack+%F0%9F%8C%90" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=ffffff&center=true&vCenter=true&width=640&height=55&lines=Desenvolvedor+Full+Stack+%F0%9F%8E%A8;Aprendendo+%E2%80%A2+Construindo+%E2%80%A2+Evoluindo+%F0%9F%9A%80;Jovem+Aprendiz+na+Gazin+Tech+%E2%9A%A1;Front-end+%2B+Back-end+%F0%9F%8C%90" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -31,7 +31,7 @@
 <table><tr>
 <td width="55%" valign="top">
 <p>Olá! Sou o <b>Enzo Pontes do Nascimento</b>, desenvolvedor em formação morando em <b>Paraná, Brasil</b>.</p>
-<p>Atualmente sou <b>Jovem Aprendiz de TI na Gazin Tech</b> — onde dou meus primeiros passos no mundo profissional, focado em <b>Front-end</b> e caminhando para me tornar <b>Full Stack</b>.</p>
+<p>Atualmente sou <b>Jovem Aprendiz de TI na Gazin Tech</b> — onde dou meus primeiros passos no mundo profissional, atuando com <b>Front-end</b> e <b>Back-end</b>, caminhando para me tornar <b>Full Stack</b>.</p>
 <br/>
 <blockquote><i>"Todo programador é um artista. O código é sua tela."</i></blockquote>
 </td>
@@ -39,7 +39,7 @@
 <table>
 <tr><td>💼</td><td>Jovem Aprendiz na <b>Gazin Tech</b></td></tr>
 <tr><td>📍</td><td>Paraná, Brasil</td></tr>
-<tr><td>🎯</td><td>Foco em <b>Front-end</b></td></tr>
+<tr><td>🎯</td><td>Front-end + Back-end</td></tr>
 <tr><td>🚀</td><td>Rumo ao <b>Full Stack</b></td></tr>
 <tr><td>📧</td><td>enzopontesdonascimento@gmail.com</td></tr>
 <tr><td>🌐</td><td><a href="https://destypc.github.io/Projeto-Portfolio/">Portfólio</a></td></tr>
@@ -61,23 +61,17 @@
 
 <br/><br/>
 
-**🔧 Ferramentas do dia a dia**
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
-<br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=gimp,discord&theme=dark" />
-
-<br/><br/>
-
-**📖 Aprendendo agora**
+**⚙️ Back-end**
 
 <img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" />
 
 <br/><br/>
 
-**🚀 Próximos passos**
+**🔧 Ferramentas do dia a dia**
 
-<img src="https://skillicons.dev/icons?i=react,ts,laravel,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gimp,discord&theme=dark" />
 
 <br/>
 
@@ -117,7 +111,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top"><h3>🏃 <a href="https://destypc.github.io/Sprint-Max/">Sprint Max</a></h3><p>E-commerce esportivo moderno com <b>design premium, alta responsividade</b> e experiência de usuário intuitiva inspirada nas maiores marcas.</p><img src="https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=1572B6"/></td>
-<td width="50%" valign="top" align="center"><br/><br/><i>Mais projetos em breve... 👀</i><br/><br/><a href="https://github.com/destypc?tab=repositories"><img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-21262d?style=for-the-badge&logo=github&logoColor=ffffff"/></a></td>
+<td width="50%" valign="top"><h3>🔐 <a href="https://github.com/destypc/sprint-max-crud">Sprint Max CRUD</a></h3><p>Sistema CRUD completo com <b>autenticação, controle de acesso por nível de usuário e rotas amigáveis</b>, desenvolvido em PHP puro e MySQL.</p><img src="https://img.shields.io/badge/PHP-21262d?style=flat-square&logo=php&logoColor=777BB4"/> <img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=1572B6"/></td>
 </tr>
 </table>
 </div>
@@ -157,5 +151,4 @@ Sempre aberto a novos projetos, parcerias e oportunidades. Bora trocar uma ideia
 </div>
 
 <div align="center">
-  <sub><code>// made with 🖤 by enzinxz</code></sub>
 </div>
