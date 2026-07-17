@@ -67,6 +67,12 @@
 
 <br/><br/>
 
+**🌱 Aprendendo atualmente**
+
+<img src="https://skillicons.dev/icons?i=ts,react,laravel&theme=dark" />
+
+<br/><br/>
+
 **🔧 Ferramentas do dia a dia**
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
