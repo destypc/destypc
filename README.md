@@ -117,7 +117,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top"><h3>🏃 <a href="https://destypc.github.io/Sprint-Max/">Sprint Max</a></h3><p>E-commerce esportivo moderno com <b>design premium, alta responsividade</b> e experiência de usuário intuitiva inspirada nas maiores marcas.</p><img src="https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=1572B6"/></td>
-<td width="50%" valign="top"><h3>🔐 <a href="https://github.com/destypc/sprint-max-crud">Sprint Max CRUD</a></h3><p>Sistema CRUD completo com <b>autenticação, controle de acesso por nível de usuário e rotas amigáveis</b>, desenvolvido em PHP puro e MySQL.</p><img src="https://img.shields.io/badge/PHP-21262d?style=flat-square&logo=php&logoColor=777BB4"/> <img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=1572B6"/></td>
+<td width="50%" valign="top"><h3>🔐 <a href="[https://github.com/destypc/sprint-max-crud](https://sprint-max-crud-production.up.railway.app/pages/dashboard.php)">Sprint Max CRUD</a></h3><p>Sistema CRUD completo com <b>autenticação, controle de acesso por nível de usuário e rotas amigáveis</b>, desenvolvido em PHP puro e MySQL.</p><img src="https://img.shields.io/badge/PHP-21262d?style=flat-square&logo=php&logoColor=777BB4"/> <img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=1572B6"/></td>
 </tr>
 </table>
 </div>
