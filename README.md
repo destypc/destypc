@@ -116,7 +116,6 @@
 <td width="50%" valign="top"><h3>⏰ <a href="https://destypc.github.io/Brasil-Time/">Brasil Time</a></h3><p>App web com <b>relógio de Brasília, cronômetro, temporizador e feriados brasileiros</b>. Tema claro/escuro e 100% responsivo.</p><img src="https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=F7DF1E"/></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><h3>🏃 <a href="https://destypc.github.io/Sprint-Max/">Sprint Max</a></h3><p>E-commerce esportivo moderno com <b>design premium, alta responsividade</b> e experiência de usuário intuitiva inspirada nas maiores marcas.</p><img src="https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=1572B6"/></td>
 <td width="50%" valign="top">
 <h3>
 🔐 <a href="https://sprint-max-crud-production.up.railway.app/pages/dashboard.php" target="_blank">
