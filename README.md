@@ -49,39 +49,12 @@
 
 ---
 
-## 🔥 Tecnologias & Skills
+<h3 align="center"><code>TECNOLOGIAS</code></h3>
 
-<div align="center">
+<p align="center">
+<kbd><img src="https://api.iconify.design/mdi:circle.svg?color=transparent" width="240" height="1" alt=""/><br/><code>LINGUAGENS</code><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript"/><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" alt="PHP"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL / SQL"/><br/><br/></kbd><img src="https://api.iconify.design/mdi:circle.svg?color=transparent" width="20" height="1" alt=""/><kbd><img src="https://api.iconify.design/mdi:circle.svg?color=transparent" width="240" height="1" alt=""/><br/><code>FRAMEWORKS / BIBLIOTECAS</code><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="48" alt="Laravel"/><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" alt="Bootstrap"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="48" alt="Tailwind CSS"/><br/><br/></kbd><img src="https://api.iconify.design/mdi:circle.svg?color=transparent" width="20" height="1" alt=""/><kbd><img src="https://api.iconify.design/mdi:circle.svg?color=transparent" width="240" height="1" alt=""/><br/><code>FERRAMENTAS</code><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git"/>&nbsp;&nbsp;&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"/><img src="https://cdn.simpleicons.org/github/181717" height="44" alt="GitHub"/></picture>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="48" alt="Composer"/><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="48" alt="GIMP"/><br/><br/></kbd>
+</p>
 
-<br/>
-
-**🖥️ Front-end**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
-
-<br/><br/>
-
-**⚙️ Back-end**
-
-<img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" />
-
-<br/><br/>
-
-**🌱 Aprendendo atualmente**
-
-<img src="https://skillicons.dev/icons?i=ts,react,laravel&theme=dark" />
-
-<br/><br/>
-
-**🔧 Ferramentas do dia a dia**
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
-<br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=gimp,discord&theme=dark" />
-
-<br/>
-
-</div>
 
 ---
 
