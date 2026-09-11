@@ -13,7 +13,7 @@
     <img src="https://komarev.com/ghpvc/?username=destypc&color=21262d&style=for-the-badge&label=VISITAS+AO+PERFIL"/>
   </a>
   &nbsp;
-  <a href="https://destypc.github.io/Projeto-Portfolio/">
+  <a href="https://destypc.github.io/Portfolio-Enzo/">
     <img src="https://img.shields.io/badge/PORTF%C3%93LIO-2d3f50?style=for-the-badge&logo=googlechrome&logoColor=ffffff"/>
   </a>
   &nbsp;
@@ -42,7 +42,7 @@
 <tr><td>🎯</td><td>Front-end + Back-end</td></tr>
 <tr><td>🚀</td><td>Rumo ao <b>Full Stack</b></td></tr>
 <tr><td>📧</td><td>enzopontesdonascimento@gmail.com</td></tr>
-<tr><td>🌐</td><td><a href="https://destypc.github.io/Projeto-Portfolio/">Portfólio</a></td></tr>
+<tr><td>🌐</td><td><a href="https://destypc.github.io/Portfolio-Enzo/">Portfólio</a></td></tr>
 </table>
 </td>
 </tr></table>
@@ -126,7 +126,7 @@ Sistema CRUD completo desenvolvido em <b>PHP, MySQL, HTML, CSS e JavaScript</b>,
 <img src="https://img.shields.io/badge/GitHub-%40destypc-21262d?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://destypc.github.io/Projeto-Portfolio/">
+<a href="https://destypc.github.io/Portfolio-Enzo/">
 <img src="https://img.shields.io/badge/Portf%C3%B3lio-2d3f50?style=for-the-badge&logo=googlechrome&logoColor=ffffff"/>
 </a>
 
