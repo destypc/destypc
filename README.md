@@ -82,26 +82,10 @@
 <table>
 <tr>
 <td width="50%" valign="top"><h3>🗂️ <a href="https://destypc.github.io/Projeto-Portfolio/">Portfólio Pessoal</a></h3><p>Site portfólio pessoal desenvolvido com <b>HTML, CSS e JavaScript</b>. Apresenta projetos, habilidades e formas de contato.</p><img src="https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=F7DF1E"/></td>
-<td width="50%" valign="top"><h3>⏰ <a href="[https://destypc.github.io/Brasil-Time/](https://brasil-time.lzdev.com.br/)">Brasil Time</a></h3><p>App web com <b>relógio de Brasília, cronômetro, temporizador e feriados brasileiros</b>. Tema claro/escuro e 100% responsivo.</p><img src="https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=F7DF1E"/></td>
+<td width="50%" valign="top"><h3>🌍 <a href="https://global-time.lzdev.com.br/">Global Time</a></h3><p>App web com <b>hora certa sincronizada, relógio mundial, conversor de fusos, cronômetro, Pomodoro, alarme e calendário com feriados</b>. Disponível em 13 idiomas, tema claro/escuro e 100% responsivo.</p><img src="https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=F7DF1E"/></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>
-🔐 <a href="https://sprint-max-crud-production.up.railway.app/pages/dashboard.php" target="_blank">
-Sprint Max CRUD
-</a>
-</h3>
-
-<p>
-Sistema CRUD completo desenvolvido em <b>PHP, MySQL, HTML, CSS e JavaScript</b>, contendo autenticação, controle de acesso por nível de usuário, dashboard administrativo, gerenciamento de produtos, usuários, vendas e carrinho de compras.
-</p>
-
-<img src="https://img.shields.io/badge/PHP-21262d?style=flat-square&logo=php&logoColor=777BB4"/>
-<img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-</td>
+<td colspan="2" valign="top"><h3>💻 <a href="https://www.lzdev.com.br/">LZdev</a></h3><p>Site da <b>LZdev</b>, empresa de desenvolvimento de <b>sites e sistemas web sob medida</b>: landing pages, sites institucionais e sistemas personalizados, com portfólio, FAQ e pedido de orçamento.</p><img src="https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind_CSS-21262d?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Vite-21262d?style=flat-square&logo=vite&logoColor=646CFF"/></td>
 </tr>
 </table>
 </div>
